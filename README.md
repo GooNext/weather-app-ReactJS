@@ -1,6 +1,6 @@
 + Weather app include:
   +  React hooks
-  +  Ajax-require
+  +  Ajax-requires
   +  Material UI
   +  Css-modules
   
