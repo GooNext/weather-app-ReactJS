@@ -1,0 +1,23 @@
+.Form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+.Input {
+    margin-bottom: 10px;
+}
+.MuiInputBase-root {
+    color: #fff!important;
+    margin-bottom: 10px;
+}
+.MuiFormLabel-root {
+    color: #fff!important;
+}
+.MuiInput-underline {
+    &:before {
+        border-bottom: 1px solid #fff!important;
+    }
+    &:after {
+        border-bottom: 1px solid rgb(146, 146, 146)!important;
+    }
+}

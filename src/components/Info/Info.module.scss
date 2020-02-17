@@ -1,0 +1,19 @@
+.Info {
+    display: flex;
+    flex-direction: column;
+    & h1 {
+        font-size: 75px;
+        color: #fff;
+        text-shadow: 4px 2px 1px #f50057;
+    }
+}
+.infonotmain{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+        & li {
+            margin: 0 10px;
+            text-align: center;
+            color: #fff;
+        }
+}   
